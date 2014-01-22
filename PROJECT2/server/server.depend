@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1363961147 source:g:\_____spring 2013 programming\practice exercises\pe05\server\server\server.cpp
+	<iostream>
+	"Socket.h"
+
+1363791442 g:\_____spring 2013 programming\practice exercises\pe05\server\server\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1363791442 source:g:\_____spring 2013 programming\practice exercises\pe05\server\server\socket.cpp
+	"Socket.h"
+
+1363791442 source:j:\_____spring 2013 programming\practice exercises\pe05\server\server\socket.cpp
+	"Socket.h"
+
+1363791442 j:\_____spring 2013 programming\practice exercises\pe05\server\server\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1363791442 source:f:\_____spring 2013 programming\practice exercises\pe05\server\server\socket.cpp
+	"Socket.h"
+
+1363791442 f:\_____spring 2013 programming\practice exercises\pe05\server\server\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1364221074 source:j:\_____spring 2013 programming\practice exercises\pe05\server\server\server.cpp
+	<iostream>
+	"Socket.h"
+
+1364921763 source:f:\_____spring 2013 programming\projects\project2\server\server.cpp
+	<iostream>
+	"Socket.h"
+
+1363791442 f:\_____spring 2013 programming\projects\project2\server\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1364921996 source:f:\_____spring 2013 programming\projects\project2\server\socket.cpp
+	"Socket.h"
+	<iostream>
+
+1364921763 source:g:\_____spring 2013 programming\projects\project2\server\server.cpp
+	<iostream>
+	"Socket.h"
+
+1363791442 g:\_____spring 2013 programming\projects\project2\server\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1365000285 source:c:\users\dblab\desktop\project2\server\server.cpp
+	<iostream>
+	"Socket.h"
+	<stdio.h>
+	<sys/types.h>
+	<dirent.h>
+	<iostream>
+	<fstream>
+	<cstring>
+
+1364922875 c:\users\dblab\desktop\project2\server\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1364922875 source:c:\users\dblab\desktop\project2\server\socket.cpp
+	"Socket.h"
+
+1365103779 source:c:\users\student\desktop\server\socket.cpp
+	"Socket.h"
+
+1364922875 c:\users\student\desktop\server\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1365104416 source:c:\users\student\desktop\server\server.cpp
+	<iostream>
+	"Socket.h"
+	<stdio.h>
+	<sys/types.h>
+	<dirent.h>
+	<iostream>
+	<fstream>
+	<cstring>
+
+1365103779 source:c:\rit\2012-2013\20123\4050 212\studentwork\fenicchia\project2\server\socket.cpp
+	"Socket.h"
+
+1364922875 c:\rit\2012-2013\20123\4050 212\studentwork\fenicchia\project2\server\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1365103779 source:c:\users\dblab\desktop\server\socket.cpp
+	"Socket.h"
+
+1364922875 c:\users\dblab\desktop\server\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1365171634 source:c:\users\dblab\desktop\server\server.cpp
+	<iostream>
+	"Socket.h"
+	<stdio.h>
+	<sys/types.h>
+	<dirent.h>
+	<iostream>
+	<fstream>
+	<cstring>
+

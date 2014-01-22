@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1363791442 source:g:\_____spring 2013 programming\practice exercises\pe05\client\client\socket.cpp
+	"Socket.h"
+
+1363791442 g:\_____spring 2013 programming\practice exercises\pe05\client\client\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1363960982 source:g:\_____spring 2013 programming\practice exercises\pe05\client\client\client.cpp
+	<iostream>
+	"Socket.h"
+
+1363965922 source:f:\_____spring 2013 programming\practice exercises\pe05\client\client\client.cpp
+	<iostream>
+	"Socket.h"
+
+1363791442 f:\_____spring 2013 programming\practice exercises\pe05\client\client\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1363791442 source:f:\_____spring 2013 programming\practice exercises\pe05\client\client\socket.cpp
+	"Socket.h"
+
+1365098272 source:f:\_____spring 2013 programming\projects\project2\client\client.cpp
+	<iostream>
+	<fstream>
+	"Socket.h"
+
+1363791442 f:\_____spring 2013 programming\projects\project2\client\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1365098272 source:f:\_____spring 2013 programming\projects\project2\client\socket.cpp
+	"Socket.h"
+
+1365097214 source:c:\users\student\desktop\client\client.cpp
+	<iostream>
+	<fstream>
+	"Socket.h"
+
+1363791442 c:\users\student\desktop\client\socket.h
+	<iostream>
+	"WinSock2.h"
+
+1365097525 source:c:\users\student\desktop\client\socket.cpp
+	"Socket.h"
+
