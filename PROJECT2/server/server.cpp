@@ -13,10 +13,8 @@
 
 int main(int argc, char* argv[])
 {
-    //const char* dirName="C:/Users/Student/desktop";
     const char* dirName="./";
     int port = atoi(argv[1]);
-    //char *ipAddress = "127.0.0.1";
     string ipAddress;
     bool done = false;
     char recMessage[STRLEN];
@@ -55,7 +53,8 @@ int main(int argc, char* argv[])
         {
             fileToCopy = string(recMessage).substr(5);
         }
-
+        
+        //sends client all the files in our directory
         if(input == "LIST")
         {
             DIR *dir;
@@ -72,7 +71,8 @@ int main(int argc, char* argv[])
                 sockServer.SendData("\n");
             }
         }
-
+        
+        //sends files to our client
         else if(input == "SEND")
         {
             ifstream fin;
